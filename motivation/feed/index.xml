@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Motivation	</title>
-	<atom:link href="/motivation/feed/" rel="self" type="application/rss+xml" />
-	<link>/motivation/</link>
+	<atom:link href="https://prateeksha09.github.io/blog.github.io/motivation/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prateeksha09.github.io/blog.github.io/motivation/</link>
 	<description>Blog Post</description>
 	<lastBuildDate>Tue, 30 Nov 2021 10:36:40 +0000</lastBuildDate>
 	<sy:updatePeriod>

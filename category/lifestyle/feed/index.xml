@@ -9,8 +9,8 @@
 
 <channel>
 	<title>lifestyle &#8211; sunshine</title>
-	<atom:link href="/category/lifestyle/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://prateeksha09.github.io/blog.github.io/category/lifestyle/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prateeksha09.github.io/blog.github.io</link>
 	<description>Blog Post</description>
 	<lastBuildDate>Tue, 30 Nov 2021 10:41:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,17 +21,17 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Lifestyle</title>
-		<link>/lifestyle/</link>
-					<comments>/lifestyle/#comments</comments>
+		<link>https://prateeksha09.github.io/blog.github.io/lifestyle/</link>
+					<comments>https://prateeksha09.github.io/blog.github.io/lifestyle/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 29 Nov 2021 12:39:15 +0000</pubDate>
 				<category><![CDATA[lifestyle]]></category>
-		<guid isPermaLink="false">/?p=547</guid>
+		<guid isPermaLink="false">https://prateeksha09.github.io/blog.github.io/?p=547</guid>
 
 					<description><![CDATA[Lifestyle is the interests, opinions, behaviours]]></description>
 		
-					<wfw:commentRss>/lifestyle/feed/</wfw:commentRss>
+					<wfw:commentRss>https://prateeksha09.github.io/blog.github.io/lifestyle/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

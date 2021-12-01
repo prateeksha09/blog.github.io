@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for sunshine	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://prateeksha09.github.io/blog.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prateeksha09.github.io/blog.github.io</link>
 	<description>Blog Post</description>
 	<lastBuildDate>Tue, 30 Nov 2021 10:41:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Lifestyle by admin		</title>
-		<link>/lifestyle/#comment-2</link>
+		<link>https://prateeksha09.github.io/blog.github.io/lifestyle/#comment-2</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 29 Nov 2021 12:45:43 +0000</pubDate>
-		<guid isPermaLink="false">/?p=547#comment-2</guid>
+		<guid isPermaLink="false">https://prateeksha09.github.io/blog.github.io/?p=547#comment-2</guid>
 
 					<description><![CDATA[nice]]></description>
 			<content:encoded><![CDATA[<p>nice</p>

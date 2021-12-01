@@ -9,8 +9,8 @@
 
 <channel>
 	<title>motivational &#8211; sunshine</title>
-	<atom:link href="/category/motivational/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://prateeksha09.github.io/blog.github.io/category/motivational/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prateeksha09.github.io/blog.github.io</link>
 	<description>Blog Post</description>
 	<lastBuildDate>Tue, 30 Nov 2021 10:36:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,34 +21,34 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Motivation</title>
-		<link>/motivation/</link>
-					<comments>/motivation/#respond</comments>
+		<link>https://prateeksha09.github.io/blog.github.io/motivation/</link>
+					<comments>https://prateeksha09.github.io/blog.github.io/motivation/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 30 Nov 2021 10:36:40 +0000</pubDate>
 				<category><![CDATA[motivational]]></category>
-		<guid isPermaLink="false">/?p=587</guid>
+		<guid isPermaLink="false">https://prateeksha09.github.io/blog.github.io/?p=587</guid>
 
 					<description><![CDATA[Motivational quotes]]></description>
 		
-					<wfw:commentRss>/motivation/feed/</wfw:commentRss>
+					<wfw:commentRss>https://prateeksha09.github.io/blog.github.io/motivation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>HOW TO BECOME SELF MOTIVATED</title>
-		<link>/how-to-become-self-motivated/</link>
-					<comments>/how-to-become-self-motivated/#respond</comments>
+		<link>https://prateeksha09.github.io/blog.github.io/how-to-become-self-motivated/</link>
+					<comments>https://prateeksha09.github.io/blog.github.io/how-to-become-self-motivated/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 30 Nov 2021 10:31:12 +0000</pubDate>
 				<category><![CDATA[motivational]]></category>
-		<guid isPermaLink="false">/?p=585</guid>
+		<guid isPermaLink="false">https://prateeksha09.github.io/blog.github.io/?p=585</guid>
 
 					<description><![CDATA[Get positive: It's pretty hard to get anything done when we're stuck on thoughts like, "Ugh, life sucks and it's raining."]]></description>
 		
-					<wfw:commentRss>/how-to-become-self-motivated/feed/</wfw:commentRss>
+					<wfw:commentRss>https://prateeksha09.github.io/blog.github.io/how-to-become-self-motivated/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>admin &#8211; sunshine</title>
-	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://prateeksha09.github.io/blog.github.io/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prateeksha09.github.io/blog.github.io</link>
 	<description>Blog Post</description>
 	<lastBuildDate>Tue, 30 Nov 2021 10:41:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,86 +21,86 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Motivation</title>
-		<link>/motivation/</link>
-					<comments>/motivation/#respond</comments>
+		<link>https://prateeksha09.github.io/blog.github.io/motivation/</link>
+					<comments>https://prateeksha09.github.io/blog.github.io/motivation/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 30 Nov 2021 10:36:40 +0000</pubDate>
 				<category><![CDATA[motivational]]></category>
-		<guid isPermaLink="false">/?p=587</guid>
+		<guid isPermaLink="false">https://prateeksha09.github.io/blog.github.io/?p=587</guid>
 
 					<description><![CDATA[Motivational quotes]]></description>
 		
-					<wfw:commentRss>/motivation/feed/</wfw:commentRss>
+					<wfw:commentRss>https://prateeksha09.github.io/blog.github.io/motivation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>HOW TO BECOME SELF MOTIVATED</title>
-		<link>/how-to-become-self-motivated/</link>
-					<comments>/how-to-become-self-motivated/#respond</comments>
+		<link>https://prateeksha09.github.io/blog.github.io/how-to-become-self-motivated/</link>
+					<comments>https://prateeksha09.github.io/blog.github.io/how-to-become-self-motivated/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 30 Nov 2021 10:31:12 +0000</pubDate>
 				<category><![CDATA[motivational]]></category>
-		<guid isPermaLink="false">/?p=585</guid>
+		<guid isPermaLink="false">https://prateeksha09.github.io/blog.github.io/?p=585</guid>
 
 					<description><![CDATA[Get positive: It's pretty hard to get anything done when we're stuck on thoughts like, "Ugh, life sucks and it's raining."]]></description>
 		
-					<wfw:commentRss>/how-to-become-self-motivated/feed/</wfw:commentRss>
+					<wfw:commentRss>https://prateeksha09.github.io/blog.github.io/how-to-become-self-motivated/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>TECHNOLOGY</title>
-		<link>/technology/</link>
-					<comments>/technology/#respond</comments>
+		<link>https://prateeksha09.github.io/blog.github.io/technology/</link>
+					<comments>https://prateeksha09.github.io/blog.github.io/technology/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 29 Nov 2021 13:03:46 +0000</pubDate>
 				<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=575</guid>
+		<guid isPermaLink="false">https://prateeksha09.github.io/blog.github.io/?p=575</guid>
 
 					<description><![CDATA[TECHNOLOGY]]></description>
 		
-					<wfw:commentRss>/technology/feed/</wfw:commentRss>
+					<wfw:commentRss>https://prateeksha09.github.io/blog.github.io/technology/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Science, engineering, and technology</title>
-		<link>/science-engineering-and-technology/</link>
-					<comments>/science-engineering-and-technology/#respond</comments>
+		<link>https://prateeksha09.github.io/blog.github.io/science-engineering-and-technology/</link>
+					<comments>https://prateeksha09.github.io/blog.github.io/science-engineering-and-technology/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 29 Nov 2021 13:02:13 +0000</pubDate>
 				<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">/?p=576</guid>
+		<guid isPermaLink="false">https://prateeksha09.github.io/blog.github.io/?p=576</guid>
 
 					<description><![CDATA[Technology is often a consequence of science and engineering]]></description>
 		
-					<wfw:commentRss>/science-engineering-and-technology/feed/</wfw:commentRss>
+					<wfw:commentRss>https://prateeksha09.github.io/blog.github.io/science-engineering-and-technology/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lifestyle</title>
-		<link>/lifestyle/</link>
-					<comments>/lifestyle/#comments</comments>
+		<link>https://prateeksha09.github.io/blog.github.io/lifestyle/</link>
+					<comments>https://prateeksha09.github.io/blog.github.io/lifestyle/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 29 Nov 2021 12:39:15 +0000</pubDate>
 				<category><![CDATA[lifestyle]]></category>
-		<guid isPermaLink="false">/?p=547</guid>
+		<guid isPermaLink="false">https://prateeksha09.github.io/blog.github.io/?p=547</guid>
 
 					<description><![CDATA[Lifestyle is the interests, opinions, behaviours]]></description>
 		
-					<wfw:commentRss>/lifestyle/feed/</wfw:commentRss>
+					<wfw:commentRss>https://prateeksha09.github.io/blog.github.io/lifestyle/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

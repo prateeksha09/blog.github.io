@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: TECHNOLOGY	</title>
-	<atom:link href="/technology/feed/" rel="self" type="application/rss+xml" />
-	<link>/technology/</link>
+	<atom:link href="https://prateeksha09.github.io/blog.github.io/technology/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prateeksha09.github.io/blog.github.io/technology/</link>
 	<description>Blog Post</description>
 	<lastBuildDate>Mon, 29 Nov 2021 13:03:46 +0000</lastBuildDate>
 	<sy:updatePeriod>

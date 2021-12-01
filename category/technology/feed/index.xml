@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Technology &#8211; sunshine</title>
-	<atom:link href="/category/technology/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://prateeksha09.github.io/blog.github.io/category/technology/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prateeksha09.github.io/blog.github.io</link>
 	<description>Blog Post</description>
 	<lastBuildDate>Mon, 29 Nov 2021 13:03:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,35 +21,35 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>TECHNOLOGY</title>
-		<link>/technology/</link>
-					<comments>/technology/#respond</comments>
+		<link>https://prateeksha09.github.io/blog.github.io/technology/</link>
+					<comments>https://prateeksha09.github.io/blog.github.io/technology/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 29 Nov 2021 13:03:46 +0000</pubDate>
 				<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=575</guid>
+		<guid isPermaLink="false">https://prateeksha09.github.io/blog.github.io/?p=575</guid>
 
 					<description><![CDATA[TECHNOLOGY]]></description>
 		
-					<wfw:commentRss>/technology/feed/</wfw:commentRss>
+					<wfw:commentRss>https://prateeksha09.github.io/blog.github.io/technology/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Science, engineering, and technology</title>
-		<link>/science-engineering-and-technology/</link>
-					<comments>/science-engineering-and-technology/#respond</comments>
+		<link>https://prateeksha09.github.io/blog.github.io/science-engineering-and-technology/</link>
+					<comments>https://prateeksha09.github.io/blog.github.io/science-engineering-and-technology/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 29 Nov 2021 13:02:13 +0000</pubDate>
 				<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">/?p=576</guid>
+		<guid isPermaLink="false">https://prateeksha09.github.io/blog.github.io/?p=576</guid>
 
 					<description><![CDATA[Technology is often a consequence of science and engineering]]></description>
 		
-					<wfw:commentRss>/science-engineering-and-technology/feed/</wfw:commentRss>
+					<wfw:commentRss>https://prateeksha09.github.io/blog.github.io/science-engineering-and-technology/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
